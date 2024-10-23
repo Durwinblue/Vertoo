@@ -48,7 +48,7 @@ For admin access, log in using the admin credentials provided.
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: SQL (MySQL or similar)
+- **Database**: SQL (MySQL)
 
 ## Installation
 
